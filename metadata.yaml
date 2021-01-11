@@ -1,11 +1,16 @@
 _repo: How-Paper-Boxes-Are-Made_64212
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 64212-h/images/cover.jpg
 creator:
   author:
     agent_name: Salade, Robert Francis
     gutenberg_agent_id: '52802'
     url: http://www.gutenberg.org/2009/agents/52802
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/64212#How-Paper-Boxes-Are-Made
 gutenberg_issued: '2021-01-04'
 gutenberg_type: Text
 identifiers:
